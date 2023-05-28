@@ -1,0 +1,100 @@
+.disbaledButton {
+  color: #00c1a3;
+  background-color: #f3f6f8;
+  border: 1px solid #f3f6f8;
+  border-radius: 6px;
+  font-size: 16px;
+  height: 40px;
+  padding: 0 16px;
+  cursor: pointer;
+}
+.modelContainer {
+  padding: 16px;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+}
+.iconButton {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 24px;
+  color: #333;
+}
+.moving-sentence {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.sentence {
+  animation: moveSentence 15s linear infinite;
+  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+}
+.GridCard{
+  height: 300px;
+  position:relative;
+  max-width:300px;
+  width: 300px;
+  min-width: 220px;
+  padding: 5px ;
+  margin: 10px 0;
+}
+.GridDropDOwn{
+    border-top: 1ps solid green;
+    border-radius: 20px;
+    position:absolute;
+    cursor: pointer;
+    top:10%;
+    right:5%;
+}
+.dropDownItem{
+  text-align: center;
+  border-bottom: 1px solid green;
+  width:100px;
+  padding:10px;
+}
+.profileImage{
+   height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+p{
+  margin:2px
+}
+.feedImage{
+  margin-top: 0px;
+  width: 99%;
+  height: 180px;
+}
+
+
+@keyframes moveSentence {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.buttonHover {
+  background: #ffffff;
+}
+.buttonHover :hover {
+  background-color: #ecfffc;
+}
+.LoadingAnimation{
+  position: relative;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}

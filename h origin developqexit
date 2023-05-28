@@ -1,0 +1,29 @@
+[33mcommit 19e73f067d1c0cf929641640af0ffe73c1bb1141[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Aryan Jaiswal <aryan78231@gmail.como>
+Date:   Wed May 24 10:52:59 2023 +0530
+
+    Merge changes from aryan/feature/feedapi
+
+[33mcommit 58cef3f9ab28b1c49dbfd8630f2d7561902be66e[m[33m ([m[1;31morigin/aryan/feature/feedapi[m[33m, [m[1;32maryan/feature/feedapi[m[33m)[m
+Author: Aryan Jaiswal <aryan78231@gmail.como>
+Date:   Wed May 24 10:38:24 2023 +0530
+
+    Bug fixed and Create , fetched ,edit ,delete functionality of Feed Module is done
+
+[33mcommit b55464d75d2eeb6d55547d2e422c329596445f80[m
+Author: Aryan Jaiswal <aryan78231@gmail.como>
+Date:   Tue May 23 10:19:20 2023 +0530
+
+    new feed changes
+
+[33mcommit 4d0499fb78f1b261786cf7b8efbd3aa712b92b5b[m[33m ([m[1;32maryan/feature/feed[m[33m)[m
+Author: Aryan Jaiswal <aryan78231@gmail.como>
+Date:   Mon May 22 19:21:13 2023 +0530
+
+     api integration for creating and fetching feeds done
+
+[33mcommit 1562a4a86d518bfe7a538b9326b48b83a9b8ce76[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Aryan Jaiswal <aryan78231@gmail.como>
+Date:   Mon May 22 19:19:33 2023 +0530
+
+    first

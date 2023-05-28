@@ -1,0 +1,17 @@
+.Parent_select{
+ 
+   
+}
+textarea{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: 20px;
+    padding:10px;
+    border: 2px green solid;
+    min-height:140px
+}
+@media(max-width:900px){
+    textarea{
+        min-height: 30px;
+    }
+}

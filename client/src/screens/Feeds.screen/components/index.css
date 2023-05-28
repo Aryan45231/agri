@@ -1,0 +1,27 @@
+.addFeedModelContainer{
+    height:80vh;
+}
+#feedImageInput{
+    display: none;
+}
+.addFeedModelContainer img{
+    min-width: 260px;
+    width: 40vw;
+    height: 50vh;
+}
+.addFeedModelContainer h1 {
+    text-align: center;
+    margin:5px 0;
+}
+.addFeedModelContainer h3{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.CaptionInput{
+    margin:10px;
+    border: none;
+    width:80%;
+    border-bottom:3px solid green;
+
+}
